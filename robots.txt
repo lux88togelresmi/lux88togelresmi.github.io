@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lux88togelresmi.github.io/mysitemap.xml
